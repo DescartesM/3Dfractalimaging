@@ -14,9 +14,21 @@
 
 其中二维的两个成像都是有参考书籍和他人博客，三维部分均为自己实现。“花椰菜”的实现参考论文：Procedural Flower Generation Suryaveer Singh Lodha and Jeremy Williams University of California - Berkeley
 
-## 程序结果
+## 程序结果及3D打印结果
 #### 谢尔宾斯基三角-三维成像
+<div align="center"> <img src="/image/三角.png"/> </div><br>
+<div align="center"> <img src="/image/三角2.jpg"/> </div><br>
+#### 门格海绵-三维成像
+<div align="center"> <img src="/image/方格.png"/> </div><br>
+<div align="center"> <img src="/image/方格2.jpg"/> </div><br>
+#### 花椰菜-三维成像
+高迭代次数结果：
+<div align="center"> <img src="/image/花椰菜.png"/> </div><br>
+低迭代次数结果:
+<div align="center"> <img src="/image/花椰菜低迭代次数.png"/> </div><br>
+论文中用Maya实现和实物对比结果:
+<div align="center"> <img src="/image/理想结果.png"/> </div><br>
 
-<div align="center"> <img src="/image/sanjiao2.jpg"/> </div><br>
-
-![image](\image\sanjiao2.jpg)
+## TODO
+1.花椰菜的实现相对来说还存在一定问题，一方面是迭代次数上去之后机子会炸，所以头部的花椰菜没有绘制。可能可以用其他近似方法去逼近。
+2.光影等等着色和渲染方面很糟糕，目前只是简单的用红绿去区别，shader这部分没有去做。

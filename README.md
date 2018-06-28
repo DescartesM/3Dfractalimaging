@@ -16,16 +16,18 @@
 
 ## 程序结果及3D打印结果
 #### 谢尔宾斯基三角-三维成像
-<div align="center"> <img src="/image/三角.png"/> </div><br>
-<div align="center"> <img src="/image/三角2.jpg"/> </div><br>
+<div align="center"> <img src="/image/三角.png" width="500"/> </div><br>
+<div align="center"> <img src="/image/三角2.jpg" width="500"/> </div><br>
+
 #### 门格海绵-三维成像
-<div align="center"> <img src="/image/方格.png"/> </div><br>
-<div align="center"> <img src="/image/方格2.jpg"/> </div><br>
+<div align="center"> <img src="/image/方格.png" width="500"/> </div><br>
+<div align="center"> <img src="/image/方格2.jpg" width="500"/> </div><br>
+
 #### 花椰菜-三维成像
 高迭代次数结果：
-<div align="center"> <img src="/image/花椰菜.png"/> </div><br>
+<div align="center"> <img src="/image/花椰菜.png" width="500"/> </div><br>
 低迭代次数结果:
-<div align="center"> <img src="/image/花椰菜低迭代次数.png"/> </div><br>
+<div align="center"> <img src="/image/花椰菜低迭代次数.png" width="500"/> </div><br>
 论文中用Maya实现和实物对比结果:
 <div align="center"> <img src="/image/理想结果.png"/> </div><br>
 
